@@ -1,0 +1,634 @@
+body {
+    background-color: rgb(20, 20, 20);
+  }
+  
+
+.spoopy {
+    user-select: none;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 30%;
+    top: 500px;
+}
+
+.me {
+    position: absolute;
+    font-size: larger;
+    margin-left: 63%;
+    margin-top: 750px;
+    font-size: 325%;
+    user-select: none;
+}
+
+
+
+
+.button {
+  cursor: pointer;
+    margin-left: 80.8%;
+    margin-right: auto;
+    width: 9%;
+    position: relative;
+    top: -43px; 
+    padding: 0;
+    border: none;
+    background: none; 
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: 'Fredoka One', cursive;
+  } 
+
+  .buttonnnn {
+    cursor: pointer;
+    margin-left: 70.8%;
+      margin-right: auto;
+      width: 9%;
+      position: relative;
+      top: 0px; 
+      padding: 0;
+      border: none;
+      background: none; 
+      font-size: 20px;
+      text-decoration: underline;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  
+  .buttonn {
+    cursor: pointer;
+    margin-left: 90%;
+    margin-right: auto;
+    width: 9%;
+    position: relative;
+    top: -67px; 
+    padding: 0;
+    border: none;
+    background: none; 
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: 'Fredoka One', cursive;
+  } 
+
+  .buttonnn {
+    cursor: pointer;
+    margin-left: -79.05%;
+    margin-right: auto;
+    width: 10%;
+    position: relative;
+    top: -200; 
+    padding: 0;
+    border: none;
+    background: none; 
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: 'Fredoka One', cursive;
+  } 
+
+
+  .txt {
+    margin-left: 10%; 
+    top: 50%;
+  }
+
+  .me {
+    position: relative;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Fredoka One', cursive;
+    margin-bottom: 100px;
+    top: -1150px;
+  }
+
+  .bunchoftext {
+    font-size: 20px;
+    margin-left: 48%;
+    margin-right: auto;
+    margin-top: -340px;
+    width: 50%;
+    top: 770px;
+    position: absolute;
+    user-select: none;
+    font-family: 'Fredoka One', cursive;
+    }
+  
+
+    .buttonnnn {
+      font-family: 'Fredoka One', cursive;
+    }
+
+    
+
+    .fade {
+      animation: slide-up 2s;
+    }
+
+    @keyframes slide-up {
+      from {
+        opacity: 0.2;
+        line-height: 40px;
+        color: black;
+      }
+      
+      to {
+        line-height: 24px;
+        opacity: 1;
+        color: white;
+      }
+   
+    }
+
+    .lines {
+      margin-left: 300px;
+      position: absolute;
+      top: 310px;
+      width: 60%;
+    }
+
+
+
+    /*
+    .haa {
+      margin-left: 306px;
+      margin-top: -300px;
+      position: relative;
+      top: 69px;
+      height: 100px;
+      width: 453px;
+    }
+
+    
+
+    .spideyy {
+      position: relative;
+      margin-left: 390px;
+      margin-top: -110px;
+      top: 223px;
+      width: 130px;
+      height: 130px;
+      user-select: none;
+    }
+
+
+    .spideyyy {
+      position: relative;
+      margin-left: 310px;
+      margin-top: -110px;
+      top: 130px;
+      width: 60px;
+      height: 60px;
+      user-select: none;
+    }
+
+
+
+    .spideyyyy {
+      position: relative;
+      margin-left: 210px;
+      margin-top: -110px;
+      top: 125px;
+      width: 100px;
+      height: 100px;
+      user-select: none;
+    }
+
+    
+
+    .pumper {
+      margin-left: 575px;
+      margin-top: -550px;
+      position: relative;
+      top: 123px;
+      width: 100px;
+    }
+
+    
+
+    .morebatss {
+      margin-left: 50px;
+      margin-top: -550px;
+      position: relative;
+      top: -100px;
+      width: 200px;
+      height: 200px;
+    }
+
+    */
+
+
+
+  
+
+   
+
+  
+    body {
+      overflow-x: hidden;
+    }
+
+
+
+    .something {
+      font-size: 20px;
+      color: white;
+      background: none;
+      border: none;
+      font-family: 'Fredoka One', cursive;
+      position: absolute;
+      margin-left: 535px;
+      margin-top: -94px;
+
+    }
+      
+    
+    .link {
+      position: absolute;
+      user-select: none;
+      top: 40px;
+    }
+
+    .absite {
+      font-size: 20px;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: -1300px;
+      position: relative;
+      width: 100%;
+      top: 100px;
+      user-select: none;
+      font-family: 'Fredoka One', cursive;
+    }
+
+    .con {
+      text-align: center;
+      font-size: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      top: 110px;
+      width: 100%;
+      position: relative;
+      user-select: none;
+      font-family: 'Fredoka One', cursive;
+    }
+
+    .cons {
+      font-size: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+      position: relative;
+      width: 100%;
+      top: 110px;
+      user-select: none;
+      font-family: 'Fredoka One', cursive;
+    }
+
+    
+
+    .liness {
+      display: none ;
+      margin-bottom: auto;
+      margin-top: auto;
+      margin-left: auto;
+      margin-right: auto;
+      position: relative;
+      top: 900px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .me2 {
+      text-align: center;
+    position: relative;
+    font-size: larger;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1px;
+    font-size: 325%;
+    user-select: none;
+    font-family: 'Fredoka One', cursive;
+    }
+
+    .thasme {
+      font-size: 50px;
+    margin-left: 62%;
+    margin-right: auto;
+    margin-top: -470px;
+    width: 45%;
+    top: 770px;
+    position: absolute;
+    user-select: none;
+    font-family: 'Fredoka One', cursive;
+    }
+    
+    .disc {
+    text-align: left;
+    width: 100%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    user-select: none;
+    font-family: 'Fredoka One', cursive;
+    }
+ 
+    .follow {
+      font-size: 20px;
+      margin-left: 63.5%;
+      margin-right: auto;
+      margin-top: -500px;
+      width: 10%;
+      top: 1080px;
+      border: none;
+      background: none;
+      text-decoration: underline;
+      position: absolute;
+      user-select: none;
+      font-family: 'Fredoka One', cursive;
+      }
+    
+      .cline {
+        display: none;
+          font-size: 20px;
+          margin-left: 39.7%;
+          margin-right: auto;
+          margin-top: -100px;
+          width: 21%;
+          top: 1278px;
+          border: none;
+          background: none;
+          text-decoration: underline;
+          position: absolute;
+          user-select: none;
+          font-family: 'Fredoka One', cursive;
+          }
+      
+          .contact {
+            font-size: 15px;
+          margin-left: 40%;
+          margin-right: auto;
+          margin-top: 55px;
+          width: 22%;
+          top: 1100px;
+          border: none;
+          background: none;
+          position: absolute;
+          user-select: none;
+          font-family: 'Fredoka One', cursive;
+          }
+
+          .disclaimer {
+            font-size: 15px;
+            text-align: center;
+            bottom: 0px;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 400px;
+          width: 100%;
+          top: 800px;
+          border: none;
+          background: none;
+          user-select: none;
+          font-family: 'Fredoka One', cursive;
+          }
+
+          .endline {
+            width: 100%;
+            position: relative;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+          }
+
+          .morebatt {
+            display: none;
+          }
+
+          
+          .morebattt {
+            display: none;
+          }
+          
+
+          
+
+
+
+          
+    @media screen and (min-width: 360px) and (max-width: 640px)
+    {
+
+      
+    
+      .buttonnnn
+      {
+        
+        font-size: 15px;
+        width: auto;
+        margin-left: 90px;
+        top: 13px;
+        position: absolute;
+      }
+  
+  
+      
+      
+      
+      .button
+      {
+        
+        left: -80px;
+      top: 12px;
+      font-size: 15px;
+      width: auto;
+      position: absolute;
+      }
+  
+      .buttonn 
+      {
+        
+        left: -30px;
+      top: 12px;
+      font-size: 15px;
+      width: auto;
+      position: absolute;
+      }
+  
+      .buttonnn
+      {
+        
+        margin-right: auto;
+      text-align: center;
+      font-size: 15px;
+      width: auto;
+      position: absolute;
+      margin-top: -28px;
+      margin-left: 1px;
+      }
+
+      .line {
+        position: relative;
+        margin-top: 40px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+  
+      
+      .me2 {
+        position: relative  ;
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+        width: 300px;
+      }
+
+      
+
+      .me
+      {
+        text-align: center;
+        margin-top: 50px;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        width: 300px;
+      }
+
+      .thasme
+      {
+        visibility: hidden;
+        font-size: 25px;
+        margin-left: 223px;
+        margin-top: -550px;
+
+      }
+
+      .spoopy
+      {
+        margin-top: -20px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 170px;
+      }
+
+      .bunchoftext
+      {
+        text-align: center;
+        font-size: 15px;
+        margin-top: auto;
+        margin-left: auto;
+        margin-top: -410px;
+        width: 100%;
+      }
+
+      .endline
+      {
+        margin-top: 200px;
+      }
+
+      .morebatt
+      {
+        display: none;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 350px;
+        width: 100px;
+        height: 100px;
+      }
+
+      .morebattt
+      { 
+        display: none;
+        margin-top: 340px;
+        width: 130px;
+        height: 130px;
+      }
+
+
+
+
+      .fade {
+        animation: slide-up 2s;
+      }
+  
+      @keyframes slide-up {
+        from {
+          opacity: 0.2;
+          line-height: 40px;
+          color: black;
+        }
+        
+        to {
+          line-height: 17.5px;
+          opacity: 1;
+          color: white;
+        }
+
+      }
+ 
+      .absite
+      {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        width: 75%;
+        margin-top: 100px;
+      }
+
+      .con {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        margin-top: 25px;
+      }
+
+      .liness
+      {
+        margin-top: 100px;
+      }
+      .cons
+      {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        margin-top: 1px;
+        width: 300px;
+      }
+
+      .other {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        margin-top: 1px;
+        width: 300px;
+      }
+
+      .disclaimer
+      {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        margin-top: -400px;
+        width: 300px;
+      }
+
+     
+
+      .cline
+      {
+        visibility: hidden;
+      }
+
+
+       
+
+
+
+    }    

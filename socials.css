@@ -1,0 +1,501 @@
+body {
+  background-color: rgb(20, 20, 20);
+}
+
+/*
+.logos {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  top: -150px;
+  position: relative;
+  */
+
+
+    .center {
+        display: block;
+        margin-left: 31%;
+        margin-right: auto;
+        width: 10%;
+        position: relative;
+        top: 100px;   
+      }
+
+      .twitter {
+        display: block;
+        margin-left: 31%;
+        margin-right: auto;
+        width: 10%;
+        position: relative;
+        top: 110px;   
+      }
+
+      .steam {
+        display: block;
+        margin-left: 43%;
+        margin-right: auto;
+        width: 10%;
+        position: relative;
+        top: -210px;   
+      }
+
+      .youtube {
+        display: block;
+        margin-left: 43%;
+        margin-right: auto;
+        width: 10%;
+        position: relative;
+        top: -180px;   
+      }
+
+      .twitch {
+        display: block;
+        margin-left: 55%;
+        margin-right: auto;
+        width: 9%;
+        position: relative;
+        top: -490px;   
+      }
+
+      .line1 {
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        position: relative;
+        top: 240px;   
+      }
+
+      .line {
+        position: relative;
+        top: -65px;
+        width: 100%;
+      }
+
+      .text {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        position: relative;
+        top: 80px;
+        font-size: 30px; 
+      }
+
+      .reddit {
+        margin-left: 53%;
+        margin-right: auto;
+        width: 9%;
+        position: relative;
+        top: -465px; 
+        width: 14%;  
+      }
+
+
+      .button {
+        cursor: pointer;
+        margin-left: 80.8%;
+        margin-right: auto;
+        width: 9%;
+        position: relative;
+        top: -43px; 
+        padding: 0;
+        border: none;
+        background: none; 
+        font-size: 20px;
+        text-decoration: underline;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      } 
+      
+      .buttonn {
+        cursor: pointer;
+        margin-left: 90%;
+        margin-right: auto;
+        width: 9%;
+        position: relative;
+        top: -67px; 
+        padding: 0;
+        border: none;
+        background: none; 
+        font-size: 20px;
+        text-decoration: underline;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      } 
+
+      .buttonnn {
+        cursor: pointer;
+        margin-left: 1%;
+        margin-right: auto;
+        width: 10%;
+        position: relative;
+        top: -200; 
+        padding: 0;
+        border-style: none;
+        background: none; 
+        font-size: 20px;
+        text-decoration: underline;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      } 
+
+
+      /*
+      .buttonnnn {
+        cursor: pointer;
+        margin-left: 70%;
+          margin-right: auto;
+          width: 9%;
+          top: 7px; 
+          padding: 0;
+          position: relative;
+          border: none;
+          background: none; 
+          font-size: 20px;
+          text-decoration: underline;
+          font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+        */
+
+      .button {
+        font-family: 'Fredoka One', cursive;
+      }
+
+      .buttonn {
+        font-family: 'Fredoka One', cursive;
+      }
+
+      .buttonnn {
+        font-family: 'Fredoka One', cursive;
+      }
+
+      .text {
+        font-family: 'Fredoka One', cursive;
+      }
+
+      .exbox {
+        position: relative;
+        left: -100px; 
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        top: -30px;
+        font-family: 'Fredoka One', cursive;
+      }
+
+      .disco {
+        margin-left: auto;
+        margin-right: auto;
+        right: -150px;
+        margin-top: -65px;
+        font-family: 'Fredoka One', cursive;
+        position: relative;
+        text-align: center; 
+      }
+
+      .underrr {
+        visibility: hidden;
+        margin-left: 34%;
+        margin-top: -450px;
+        top: 100px;
+        width: 400px;
+     }
+
+     
+    
+     
+    
+     
+
+
+    
+
+
+     .fade {
+      animation: slide-up 2s;
+    }
+
+    @keyframes slide-up {
+      from {
+        opacity: 0.2;
+        line-height: 101px;
+      }
+      
+      to {
+        opacity: 1;
+        line-height: 38px;
+      }
+   
+    }
+
+    body {
+      overflow-y: hidden; 
+      overflow-x: hidden;
+    }
+
+    
+    .buttonnnn {
+      position: relative;
+      margin-left: 70%;
+        margin-right: auto;
+        width: 9%;
+        position: fixed;
+        top: 8px; 
+        padding: 0;
+        border: none;
+        background: none; 
+        font-size: 20px;
+        text-decoration: underline;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
+    
+    .buttonnnn {
+      position: absolute;
+      cursor: pointer;
+      font-family: 'Fredoka One', cursive;
+    }
+    
+
+
+        
+    .twitterlogo {
+      margin-left: auto;
+      margin-right: auto;
+      color: white;
+      font-size: 100px;
+      text-align: center;
+      bottom: -300px;
+      top: 200px;
+      position: relative;
+    }
+
+    .discordlogo {
+      margin-left: auto;
+      margin-right: auto;
+      color: white;
+      font-size: 100px;
+      text-align: center;
+      bottom: -300px;
+      top: 200px;
+      position: relative;
+    }
+
+    .githublogo {
+      margin-left: auto;
+      margin-right: auto;
+      color: white;
+      font-size: 100px;
+      text-align: center;
+      bottom: -300px;
+      top: 200px;
+      position: relative;
+    }
+
+    .steamlogo {
+      margin-left: auto;
+      margin-right: auto;
+      color: white;
+      font-size: 100px;
+      text-align: center;
+      bottom: -300px;
+      top: 200px;
+      position: relative;
+    }
+
+    .youtubelogo {
+      margin-left: auto;
+      margin-right: auto;
+      color: white;
+      font-size: 100px;
+      text-align: center;
+      bottom: -300px;
+      top: 200px;
+      position: relative;
+    }
+
+    .twitchlogo {
+      margin-left: auto;
+      margin-right: auto;
+      color: white;
+      left: 10px;
+      font-size: 100px;
+      text-align: center;
+      bottom: -300px;
+      top: 200px;
+      width: 100%;
+      position: relative;
+    }
+
+    .fade {
+      text-align: center;
+    }
+
+    
+    @media screen and (min-width: 360px) and (max-width: 640px)
+{
+
+
+
+  
+
+ .buttonnnn
+  {
+    font-size: 15px;
+    width: auto;
+    margin-left: 90px;
+    top: 21px;
+    position: absolute;
+  }
+
+
+  
+  body {
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+  
+  .button {
+    left: -85px;
+    top: 20px;
+    font-size: 15px;
+    width: auto;
+    position: absolute;
+  }
+
+  .buttonn {
+    left: -36px;
+    top: 20px;
+    font-size: 15px;
+    width: auto;
+    position: absolute;
+  }
+
+  .buttonnn {
+    margin-right: auto;
+    text-align: center;
+    font-size: 15px;
+    width: auto;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 1px;
+  }
+
+  
+  .underrr {
+    display: none;
+  }
+
+
+  
+  .line {
+    position: relative;
+    margin-top: 103px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  
+  .line1 {
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    text-align: center;
+    top: 150px;
+  }
+
+  
+  
+
+    .text
+    {
+      position: absolute;
+      width: 100%;
+      margin-right: auto;
+      margin-left: auto;
+      text-align: center;
+      font-size: 25px;
+    } 
+    
+
+    .twitterlogo
+    {
+    top: 300px;
+    margin-left: auto;
+    position: relative;
+    margin-right: auto;  
+    }
+
+    .discordlogo
+    {
+      top: 310px;
+      margin-left: auto;
+      position: relative;
+      margin-right: auto;
+    }
+
+    .githublogo
+    {
+      top: 310px;
+      margin-left: auto;
+      position: relative;
+      margin-right: auto;
+    }
+
+    .steamlogo
+    {
+      top: 310px;
+      margin-left: auto;
+      position: relative;
+      margin-right: auto;
+    }
+
+    .youtubelogo
+    {
+      top: 310px;
+      margin-left: auto;
+      position: relative;
+      margin-right: auto;
+    }
+
+    .twitchlogo
+    {
+      top: 310px;
+      margin-left: auto;
+      position: relative;
+      margin-right: auto;
+    }
+    
+    
+    .fade {
+      text-align: center;
+      margin-top: -150px;
+    }
+    
+    
+    .exbox
+    {
+      display: none;
+      margin-left: auto;
+      position: absolute;
+      margin-right: auto;
+      font-size: 15px;
+      margin-top: -200px;
+    } 
+
+    .disco
+    {
+      text-align: left;
+      margin-left: auto;
+      margin-right: auto;
+      display:none
+    }
+    
+  
+
+
+
+   
+
+
+
+
+  }

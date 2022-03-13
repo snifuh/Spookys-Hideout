@@ -1,0 +1,546 @@
+body {
+  background-color: rgb(20, 20, 20);
+}
+
+    
+
+        /*
+      left: -80px;
+      top: 12px;
+      font-size: 15px;
+      width: auto;
+      position: absolute;
+        */
+
+    
+
+    .button {
+      cursor: pointer;
+      margin-left: 80.8%;
+      margin-right: auto;
+      width: 9%;
+      position: relative;
+      top: -43px; 
+      padding: 0;
+      border: none;
+      background: none; 
+      font-size: 20px;
+      text-decoration: underline;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      } 
+      
+
+      .buttonnnn {
+          cursor: pointer;
+          margin-left: 70%;
+          margin-right: auto;
+          width: 9%;
+          position: fixed;
+          top: 8px; 
+          padding: 0;
+          border: none;
+          background: none; 
+          font-size: 20px;
+          text-decoration: underline;
+          font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+  
+
+
+
+      .buttonn {
+        cursor: pointer;
+        margin-left: 90%;
+        margin-right: auto;
+        width: 9%;
+        position: relative;
+        top: -67px; 
+        padding: 0;
+        border: none;
+        background: none; 
+        font-size: 20px;
+        text-decoration: underline;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      } 
+
+      .buttonnn {
+        cursor: pointer;
+        margin-left: 1%;
+        margin-right: auto;
+        width: 10%;
+        position: relative;
+        top: -200; 
+        padding: 0;
+        border: none;
+        background: none; 
+        font-size: 20px;
+        text-decoration: underline;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      } 
+
+
+      .txt {
+        margin-left: 10%; 
+      }
+      
+      .Spooky {
+        font-size: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 150;
+        width: 300px;
+        top: 250px;
+      }
+
+      .spooker {
+        position: relative;
+        text-align: center;
+        font-size: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        top: 10px;
+      }
+      
+      .spooker {
+        font-family: 'Fredoka One', cursive;
+      }
+
+      .buttonnnn {
+        font-family: 'Fredoka One', cursive;
+      }
+
+      .button {
+        font-family: 'Fredoka One', cursive;
+      }
+
+      .buttonn {
+        font-family: 'Fredoka One', cursive;
+      }
+
+      .buttonnn {
+        font-family: 'Fredoka One', cursive;
+      }
+      
+      
+     
+      .welcome {
+        font-size: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        position: relative;
+        width: 100%;
+        top: 10px;
+        font-family: 'Fredoka One', cursive;
+      }
+
+     .underr {
+       visibility: hidden;
+        margin-left: 0%;
+        margin-top: 335px;
+        top: 250px;
+        bottom: 10;
+     }
+
+
+     /*spooky stuff*/
+
+     .batter {
+       display: none;
+      left: 78%;
+      margin-left: auto;
+      margin-right: auto;
+      width: 9%;
+      position: relative;
+      top: -200px;
+      margin-top: auto; 
+      width: 5%;  
+     }
+
+
+
+     
+     
+
+     .batter1 {
+       display: none;
+      rotate: 45deg;
+      margin-top: auto;
+      margin-left: auto;
+      margin-right: auto;
+      width: 08%;
+      width: 10%;  
+      top: -500px;
+     }
+
+     .batter2 {
+       display: none;
+      rotate: -5deg;
+      left: 73%;
+      margin-left: auto;
+      margin-right: auto;
+      width: 08%;
+      position: relative;
+      top: -475px; 
+      width: 10%;  
+     }
+
+     .batter3 {
+       display: none;
+      rotate: 45deg;
+      left: 150px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 8%;
+      position: relative;
+      top: -550px; 
+      width: 10%; 
+     }
+
+     .batter4 {
+       display: none; 
+      rotate: 1deg;
+      margin-left: auto;
+      margin-right: auto;
+      top: -350px;
+      width: 8%;
+      position: relative; 
+      width: 10%; 
+     }
+
+     .batter5 {
+       display: none;
+      rotate: 45deg;
+      left: 175px;
+      margin-top: auto;
+      margin-bottom: auto;
+      margin-left: auto;
+      margin-right: auto;
+      width: 9%;
+      position: relative;
+      top: -600px; 
+      width: 5%; 
+     }
+
+    .riot {
+      text-align: center;
+      cursor: pointer;
+      font-family: 'Fredoka One', cursive;
+      font-size: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        position: relative;
+        top: -5px;
+        text-decoration: underline;
+    }
+
+
+   .riotfr {
+     bottom: 0;
+     text-align: center;
+   }
+
+
+    .fade {
+      animation: slide-up 2s;
+    }
+
+    @keyframes slide-up {
+      from {
+        opacity: 0.2;
+        line-height: 100px;
+      }
+      
+      to {
+        opacity: 1;
+        line-height: 60px;
+      }
+   
+    }
+
+    .fade2 {
+      animation: slide-up 2s;
+    }
+
+    @keyframes slide-up {
+      from {
+        opacity: 0.2;
+        line-height: 100px;
+      }
+      
+      to {
+        opacity: 1;
+        line-height: 60px;
+      }
+   
+    }
+
+    
+    
+
+    #change {
+      color:red;
+  
+    }
+    #change:after {
+      content:"";
+      animation: spin 4s linear infinite;
+      transition-delay: 4s;
+    }
+    @keyframes spin {
+      0% { content:"JOIN THE CULT";}
+      100% { content:"RIGHT FUCKING NOW!";} 
+    }
+    
+
+
+   
+
+    
+
+
+
+
+
+  
+
+
+
+
+    body {
+      overflow-y: hidden; 
+    }
+      
+
+
+
+
+
+
+
+    @media screen and (min-width: 360px) and (max-width: 640px)
+{
+
+
+  html, body {
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+  body {
+    position: relative;
+  }
+  
+
+  #change {
+    color:red;
+  }
+  #change:after {
+    content:"";
+    animation: spin 4s linear infinite;
+    transition-delay: 4s;
+  }
+  @keyframes spin {
+    0% { content:"JOIN THE CULT";}
+    100% { content:"RIGHT FUCKING NOW!";} 
+  }
+  
+
+  
+
+
+
+
+  .fade {
+    animation: slide-up 2s;
+  }
+
+  @keyframes slide-up {
+    from {
+      opacity: 0.2;
+      line-height: 50px;
+    }
+    
+    to {
+      opacity: 1;
+      line-height: 50px;
+    }
+ 
+  }
+
+  .fade2 {
+    animation: slide-up 2s;
+  }
+
+  @keyframes slide-up {
+    from {
+      opacity: 0.2;
+      line-height: 150px;
+    }
+    
+    to {
+      opacity: 1;
+      line-height: 40px;
+    }
+ 
+  }
+
+
+  .line {
+    position: relative;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+
+
+    .buttonnnn
+    {
+        font-size: 15px;
+        width: auto;
+        margin-left: 90px;
+        top: 13px;
+        position: absolute;
+    }
+
+
+  
+    body {
+      overflow-y: hidden;
+      overflow-x: hidden;
+    }
+    
+    .button
+    {
+      left: -80px;
+      top: 12px;
+      font-size: 15px;
+      width: auto;
+      position: absolute;
+    }
+
+    .buttonn 
+    {
+      left: -30px;
+      top: 12px;
+      font-size: 15px;
+      width: auto;
+      position: absolute;
+    }
+
+    .buttonnn
+    {
+      margin-right: auto;
+      text-align: center;
+      font-size: 15px;
+      width: auto;
+      position: absolute;
+      margin-top: -28px;
+      margin-left: 1px;
+    }
+
+
+    .spooker 
+    {
+      text-align: center;
+      margin-right: auto;
+      margin-left: auto;
+      font-size: 20px;
+      width: 100%;
+      margin-top: -50px;
+      
+      
+    }
+
+
+    .welcome
+    {
+      text-align: center;
+      margin-right: auto;
+      margin-left: auto;
+      width: 300px;
+      margin-top: 200px;
+    }
+
+  
+
+    .underr
+    {
+      display: none;
+      margin-left: auto;
+      margin-right: auto;
+
+    }
+
+    .riot
+    {
+      font-size: 30px;
+      margin-left: auto;
+      margin-right: auto;
+      top: 20px;
+      width: 20px;
+    }
+
+    .riotfr {
+      text-align: center;
+      bottom: 0px;
+    }
+
+
+
+    .batter
+    {
+      rotate: 50deg;
+      float: right;
+      display: none;
+      margin-top: 450px;
+      width: 100px;
+    }
+
+    .batter1
+    {
+      display: none;
+      width: 100px;
+      float: right;
+      display: none;
+      margin-top: -100px;
+    }
+
+
+    .batter2
+    {
+      rotate: 50deg;
+      width: 100px;
+      display: none;
+      margin-top: 300px;
+      right: 60px;
+    }
+
+
+    .batter3
+    {
+      display: none;
+    }
+
+    .batter4
+    {
+      width: 100px;
+      float: left;
+      display: none;
+      margin-top: 180px;
+    }
+
+    .batter5
+    {
+      display: none;
+      rotate: -0deg;
+      width: 100px;
+      margin-top: 477px;
+      margin-left: -50px;
+      float: left;
+      display: none;
+    }
+}
