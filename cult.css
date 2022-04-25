@@ -265,7 +265,7 @@ body {
       
       .button
       {
-      left: -80px;
+      left: -78px;
       top: 12px;
       font-size: 15px;
       width: auto;
@@ -274,7 +274,7 @@ body {
   
       .buttonn 
       {
-      left: -30px;
+      left: -15px;
       top: 12px;
       font-size: 15px;
       width: auto;
@@ -360,5 +360,6 @@ body {
         margin-left: auto;
         margin-right: auto;
       }
+
       
     }    

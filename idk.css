@@ -12,6 +12,22 @@ body {
       position: absolute;
         */
 
+
+
+      .buttonnnnn {
+        cursor: pointer;
+        margin-left: 54.8%;
+        margin-right: auto;
+        width: 15%;
+        position: relative;
+        top: -90px; 
+        padding: 0;
+        border: none;
+        background: none; 
+        font-size: 20px;
+        text-decoration: underline;
+        font-family: 'Fredoka One', cursive;
+       } 
     
 
     .button {
@@ -415,7 +431,7 @@ body {
     
     .button
     {
-      left: -80px;
+      left: -78px;
       top: 12px;
       font-size: 15px;
       width: auto;
@@ -424,7 +440,7 @@ body {
 
     .buttonn 
     {
-      left: -30px;
+      left: -15px;
       top: 12px;
       font-size: 15px;
       width: auto;
