@@ -328,6 +328,10 @@ body {
       text-align: center;
     }
 
+
+    .logos {
+      text-align: center;
+    }
     
     @media screen and (min-width: 360px) and (max-width: 640px)
 {
@@ -394,6 +398,7 @@ body {
 
   
   .line1 {
+    visibility: hidden;
     position: relative;
     margin-right: auto;
     margin-left: auto;
@@ -465,11 +470,12 @@ body {
     }
     
     
+    
     .fade {
       text-align: center;
       margin-top: -150px;
     }
-    
+  
     
     .exbox
     {
@@ -490,7 +496,10 @@ body {
     }
     
   
-
+    .logos {
+      text-align: center;
+      margin-top: -200px;
+    }
 
 
    
