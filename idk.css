@@ -163,15 +163,15 @@ body {
      /*spooky stuff*/
 
      .batter {
-       display: none;
+      display: none;
       left: 78%;
       margin-left: auto;
       margin-right: auto;
-      width: 9%;
+      left: 1250px;
+      width: 8%;
       position: relative;
-      top: -200px;
-      margin-top: auto; 
-      width: 5%;  
+      top: -405px; 
+      width: 10%;  
      }
 
 
@@ -181,19 +181,20 @@ body {
 
      .batter1 {
        display: none;
-      rotate: 45deg;
-      margin-top: auto;
+      position: relative;
+      rotate: 50deg;
       margin-left: auto;
       margin-right: auto;
       width: 08%;
-      width: 10%;  
-      top: -500px;
+      width: 10%;
+      left: 100px;  
+      top: -520px;
      }
 
      .batter2 {
        display: none;
-      rotate: -5deg;
-      left: 73%;
+      rotate: 50deg;
+      left: 67.5%;
       margin-left: auto;
       margin-right: auto;
       width: 08%;
@@ -204,22 +205,23 @@ body {
 
      .batter3 {
        display: none;
-      rotate: 45deg;
-      left: 150px;
+      rotate: 0deg;
+      left: 335px;
       margin-left: auto;
       margin-right: auto;
       width: 8%;
       position: relative;
-      top: -550px; 
+      top: -595px; 
       width: 10%; 
      }
 
-     .batter4 {
-       display: none; 
-      rotate: 1deg;
+     .batter4 { 
+       display: none;
+      rotate: 5deg;
       margin-left: auto;
       margin-right: auto;
-      top: -350px;
+      top: -1040px;
+      left: 200px;
       width: 8%;
       position: relative; 
       width: 10%; 
@@ -228,15 +230,13 @@ body {
      .batter5 {
        display: none;
       rotate: 45deg;
-      left: 175px;
-      margin-top: auto;
-      margin-bottom: auto;
+      left: 1150px;
       margin-left: auto;
       margin-right: auto;
-      width: 9%;
+      width: 8%;
       position: relative;
-      top: -600px; 
-      width: 5%; 
+      top: -1155px; 
+      width: 10%; 
      }
 
     .riot {

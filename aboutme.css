@@ -5,7 +5,7 @@ body {
 
 .spoopy {
     user-select: none;
-    margin-left: 300px;
+    margin-left: 225px;
     margin-right: auto;
     width: 20%;
     margin-top: -250px;
@@ -97,7 +97,7 @@ body {
     margin-right: auto;
     font-family: 'Fredoka One', cursive;
     margin-bottom: 100px;
-    top: -1150px;
+    top: -730px;
   }
 
   .bunchoftext {
@@ -251,7 +251,7 @@ body {
       text-align: center;
       margin-left: auto;
       margin-right: auto;
-      margin-top: -1300px;
+      margin-top: -850px;
       position: relative;
       width: 100%;
       top: 100px;
@@ -264,7 +264,7 @@ body {
       font-size: 20px;
       margin-left: auto;
       margin-right: auto;
-      top: 110px;
+      top: -280px;
       width: 100%;
       position: relative;
       user-select: none;
@@ -278,7 +278,7 @@ body {
       text-align: center;
       position: relative;
       width: 100%;
-      top: 110px;
+      top: -300px;
       user-select: none;
       font-family: 'Fredoka One', cursive;
     }
@@ -381,9 +381,8 @@ body {
             bottom: 0px;
           margin-left: auto;
           margin-right: auto;
-          margin-top: 400px;
           width: 100%;
-          top: 800px;
+          margin-top: 400px;
           border: none;
           background: none;
           user-select: none;
@@ -391,6 +390,7 @@ body {
           }
 
           .endline {
+             
             width: 100%;
             position: relative;
             text-align: center;
@@ -407,16 +407,115 @@ body {
             display: none;
           }
           
-
+          .finalline {
+            display: none;
+            margin-top: -60px;
+          }
           
          
+          .generous {
+            font-size: 20px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 50px;
+            position: relative;
+            width: 100%;
+            top: 10px;
+            user-select: none;
+            font-family: 'Fredoka One', cursive;
+          }
+
+          .coffee {
+            font-size: 20px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: -20px;
+            position: relative;
+            width: 100%;
+            top: 10px;
+            user-select: none;
+            font-family: 'Fredoka One', cursive;
+          }
+
+          .address {
+            font-size: 20px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 100px;
+            position: relative;
+            width: 100%;
+            top: -120px;
+            user-select: none;
+            font-family: 'Fredoka One', cursive;
+          }
+
+          .paypal {
+            font-size: 20px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: -100px;
+            position: relative;
+            width: 100%;
+            top: 50px;
+            user-select: none;
+            font-family: 'Fredoka One', cursive;
+          }
+
+          .paypal2 {
+            visibility: hidden;
+            font-size: 20px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 100px;
+            position: relative;
+            width: 100%;
+            top: 50px;
+            user-select: none;
+            font-family: 'Fredoka One', cursive;
+          }
+
+          .donate {
+            text-align: center;
+    position: relative;
+    font-size: larger;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    font-size: 325%;
+    user-select: none;
+    font-family: 'Fredoka One', cursive;
+          }
 
 
+          
           
     @media screen and (min-width: 360px) and (max-width: 640px)
     {
 
       
+
+
+      .paypal2 {
+        visibility: hidden;
+        font-size: 20px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+        position: relative;
+        width: 100%;
+        top: 50px;
+        user-select: none;
+        font-family: 'Fredoka One', cursive;
+      }
+
+
+
     
       .buttonnnn
       {
@@ -486,7 +585,7 @@ body {
       .me
       {
         text-align: center;
-        top: -420px;
+        top: -720px;
         position: relative;
         margin-left: auto;
         margin-right: auto;
@@ -582,7 +681,64 @@ body {
         }
      
       }
+
+      
+      
+
+       .donate {
+        text-align: center;
+        position: relative;
+        font-size: larger;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 250px;
+        font-size: 325%;
+        user-select: none;
+        font-family: 'Fredoka One', cursive;
+       }
  
+      .generous {
+        font-size: 20px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: -50px;
+            position: relative;
+            width: 100%;
+            top: 10px;
+            user-select: none;
+            font-family: 'Fredoka One', cursive;
+      }
+
+      .coffee {
+        font-size: 20px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: -25px;
+            position: relative;
+            width: 100%;
+            top: 10px;
+            user-select: none;
+            font-family: 'Fredoka One', cursive;
+      }
+
+      .paypal {
+        font-size: 20px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: -210px;
+            position: relative;
+            width: 100%;
+            top: 50px;
+            font-family: 'Fredoka One', cursive;
+      }
+      
+
+      
+     
+
       .absite
       {
         text-align: center;
@@ -590,7 +746,11 @@ body {
         margin-right: auto;
         position: relative;
         width: 75%;
-        margin-top: -600px;
+        margin-top: -900px;
+      }
+
+      .finalline {
+        margin-top: 300px;
       }
 
       .con {
@@ -598,7 +758,7 @@ body {
         margin-left: auto;
         margin-right: auto;
         position: relative;
-        margin-top: 20px;
+        margin-top: 70px;
       }
 
       .liness
@@ -630,7 +790,7 @@ body {
         margin-left: auto;
         margin-right: auto;
         position: relative;
-        margin-top: -400px;
+        top: 200px;
         width: 300px;
       }
 
