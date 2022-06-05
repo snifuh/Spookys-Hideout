@@ -448,7 +448,7 @@ body {
             position: relative;
             width: 100%;
             top: -120px;
-            user-select: none;
+            
             font-family: 'Fredoka One', cursive;
           }
 
@@ -461,7 +461,7 @@ body {
             position: relative;
             width: 100%;
             top: 50px;
-            user-select: none;
+            
             font-family: 'Fredoka One', cursive;
           }
 
@@ -475,7 +475,6 @@ body {
             position: relative;
             width: 100%;
             top: 50px;
-            user-select: none;
             font-family: 'Fredoka One', cursive;
           }
 
@@ -497,6 +496,10 @@ body {
     @media screen and (min-width: 360px) and (max-width: 640px)
     {
 
+
+      .address {
+        display: none;
+      }
       
 
 
